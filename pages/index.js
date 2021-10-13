@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello World! Welcome to the jungle!!!
+          Hello World! Welcome to the jungle mother father!
         </h1>
       </main>
 
