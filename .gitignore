@@ -1,3 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# CUSTOM
+.env
+.env.test
+.env.local
+.env.development
+.env.production
+# CUSTOM
+
+
+
 # Logs
 logs
 *.log
@@ -70,7 +93,6 @@ typings/
 
 # dotenv environment variables file
 .env
-.env*
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
